@@ -96,12 +96,12 @@ Detailed insights, interpretations, and conclusions are included inside the **Ju
 
 
 #### Comparative Metrics
-![Chart 7](chart7.png)
-![Chart 8](chart8.png)
+![Chart 7](my_chart1.png)
+![Chart 8](my_chart7.png)
 
 #### Final Summaries
-![Chart 9](chart9.png)
-![Chart 10](chart10.png)
+![Chart 9](my_chart6.png)
+![Chart 10](my_chart10.png)
 
 </details>
 
